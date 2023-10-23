@@ -1,2 +1,2 @@
 # prework-study-guide
-EdX Bootcamp prework repo
+EdX Bootcamp Prework Study Guide
